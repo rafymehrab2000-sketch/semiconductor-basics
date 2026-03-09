@@ -1,6 +1,6 @@
 # LTspice Diode I-V Simulation
 
-Name: [Your Name]
+Name: [MD Mehrab Hasan Rafy]
 
 Sweep Range:
 V1 swept from 0 V to 5 V with a step of 0.01 V.
